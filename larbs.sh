@@ -7,7 +7,7 @@
 ### OPTIONS AND VARIABLES ###
 
 dotfilesrepo="https://github.com/RuiPMaia/voidrice.git"
-progsfile="https://raw.githubusercontent.com/RuiPMaia/LARBS/master/static/progs.csv"
+progsfile="https://raw.githubusercontent.com/RuiPMaia/LARBS/master/progs.csv"
 aurhelper="yay"
 repobranch="master"
 export TERM=ansi
